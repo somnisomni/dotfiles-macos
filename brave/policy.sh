@@ -17,6 +17,7 @@ declare -a packageNames=(
 declare -A policySettings=(
     ["BraveRewardsDisabled"]=true
     ["BraveWalletDisabled"]=true
+    ["BraveWeb3Disabled"]=true
     ["BraveVPNDisabled"]=true
     ["BraveAIChatEnabled"]=false
     ["BraveNewsDisabled"]=true
